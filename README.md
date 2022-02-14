@@ -19,7 +19,7 @@
 졸업하는 교육생들을 대상으로 42OAuth를 대신하여 자체 OAuth를 제공하는 서비스
 
 Repository : https://github.com/42Sunny/42extra<br/>
-Link : 배포 X<br/>
+Link : https://extra.dev.42cadet.kr<br/>
 Tech skill : React, typescript, Redux Toolkit
 
 <br/>
