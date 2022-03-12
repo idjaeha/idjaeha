@@ -23,7 +23,7 @@ Tech skill : React, typescript, Redux Toolkit
 <br/>
 
 **🤫 42Blind**<br/>
-2022.01 - 현재<br/>
+2022.01 - 배포 후 서비스 <br/>
 교육생들이 자유롭게 이야기를 나눌 수 있는 익명 커뮤니티
 
 Repository : https://github.com/ftSecret/42-blind-front<br/>
