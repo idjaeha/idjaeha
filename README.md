@@ -12,10 +12,10 @@
 
 # 프로젝트
 
-### 진행중인 프로젝트
+### 완성된 프로젝트
 
 **🚧 42Extra**<br/>
-2022.01 - 현재<br/>
+2022.01 - 개발 중지<br/>
 졸업하는 교육생들을 대상으로 42OAuth를 대신하여 자체 OAuth를 제공하는 서비스
 
 Repository : https://github.com/42Sunny/42extra<br/>
@@ -28,14 +28,11 @@ Tech skill : React, typescript, Redux Toolkit
 2022.01 - 현재<br/>
 교육생들이 자유롭게 이야기를 나눌 수 있는 익명 커뮤니티
 
-Repository : 비공개<br/>
+Repository : https://github.com/ftSecret/42-blind-front<br/>
 Link : https://42blind.com<br/>
 Tech skill : React, typescript, Redux Toolkit, RTK Query
 
 <br/>
-
-### 완성된 프로젝트
-
 
 **🤼‍♂️ 42Visitor**<br/>
 2021.07 - 2022.01<br/>
