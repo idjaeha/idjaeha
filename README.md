@@ -40,3 +40,7 @@ Link : https://github.com/42Sunny/admin_front<br/>
 Tech skill : React, typescript, Redux, Redux saga<br/>
 
 ---
+<br/><br/>
+
+# 연락처
+Gmail : jaehayi.id@gmail.com
